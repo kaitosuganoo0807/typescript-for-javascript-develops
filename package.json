@@ -1,0 +1,20 @@
+{
+  "name": "typescript-for-javascript-develops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaitosuganoo0807/typescript-for-javascript-develops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaitosuganoo0807/typescript-for-javascript-develops/issues"
+  },
+  "homepage": "https://github.com/kaitosuganoo0807/typescript-for-javascript-develops#readme"
+}
