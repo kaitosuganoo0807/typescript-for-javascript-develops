@@ -1,6 +1,6 @@
 export {};
 
-let bmi: (height: number, weight: number) => number = function (
+let bmi: (height: number, weight: number) => number = function(
   height: number,
   weight: number
 ): number {
